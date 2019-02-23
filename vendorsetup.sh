@@ -1,0 +1,2 @@
+add_lunch_combo bootleg_land-user
+add_lunch_combo bootleg_land-userdebug
